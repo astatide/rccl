@@ -1,8 +1,6 @@
 # Copyright (c) 2019-2023 Advanced Micro Devices, Inc. All rights reserved.
 # Modifications Copyright (c) Microsoft Corporation. Licensed under the MIT License.
 
-I'M NOT VALID OR SUPPOSED TO BE HERE.
-
 cmake_minimum_required(VERSION 3.5)
 
 # RCCL project
